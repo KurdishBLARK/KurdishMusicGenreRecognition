@@ -1,7 +1,7 @@
 # KurdishMusicGenreRecognition
 A dataset of for Kurdish Music Genre Recognition
 
-The dataset was collectedy by: Aza Kamal
+The dataset was collectedy by: Aza Kamala
 
 The Kurdish Music Gnere Recognition and the datset are explained in the following article:
 
